@@ -1,0 +1,8 @@
+1. General analysis and requirements gathering.
+2. Product Design.
+3. Coding.
+4. database.
+5. link the program with database.
+4. Testing.
+5. Deployment of the Product.
+6. Maintenance and Operations.
